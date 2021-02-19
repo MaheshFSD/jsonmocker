@@ -1,11 +1,113 @@
 {
     "blogs":[{
         "id":1,
-        "title":"Something New",
+        "title":"PlaySchools",
+        "body":"It all comes with practice. Untill then just do ehat you have to do",
+        "author":"Abhishek",
+        "personal":false,
+        "category":"Education",
+        "blog_img":"https://i.imgur.com/l3cfSqm.jpg"
+    },
+    {
+        "id":2,
+        "title":"Shares",
+        "body":"It all comes with practice. Untill then just do ehat you have to do",
+        "author":"Mahesh",
+        "personal":true,
+        "category":"Share Market",
+        "blog_img":"https://i.imgur.com/l3cfSqm.jpg"
+    },
+    {
+        "id":3,
+        "title":"Something All ways New",
+        "body":"It all comes with practice. Untill then just do ehat you have to do",
+        "author":"Mahesh",
+        "personal":true,
+        "category":"Sports",
+        "blog_img":"https://i.imgur.com/RfEBwyW.jpg"
+    },
+    {
+        "id":4,
+        "title":"Foods for Immunity",
         "body":"It all comes with practice. Untill then just do ehat you have to do",
         "author":"Mahesh",
         "personal":true,
         "category":"Education",
+        "blog_img":"https://i.imgur.com/DDTtEf5.jpg"
+    },
+    {
+        "id":5,
+        "title":"Foods for Corona",
+        "body":"It all comes with practice. Untill then just do ehat you have to do",
+        "author":"abhishek",
+        "personal":false,
+        "category":"health",
+        "blog_img":"https://i.imgur.com/wLzoyD3.png"
+    },
+    {
+        "id":6,
+        "title":"sportsclub",
+        "body":"It all comes with practice. Untill then just do ehat you have to do",
+        "author":"Mahesh",
+        "personal":false,
+        "category":"health",
+        "blog_img":"https://i.imgur.com/jmfCUYW.jpg"
+    },
+    {
+        "id":7,
+        "title":"All News",
+        "body":"It all comes with practice. Untill then just do ehat you have to do
+        It all comes with practice. Untill then just do ehat you have to do
+        It all comes with practice. Untill then just do ehat you have to do",
+        "author":"Mahesh",
+        "personal":true,
+        "category":"news",
+        "blog_img":"https://i.imgur.com/RrhzuND.jpg"
+    },
+    {
+        "id":8,
+        "title":"Something very New",
+        "body":"It all comes with practice. Untill then just do ehat you have to doIt all comes with practice. Untill then just do ehat you have to do",
+        "author":"Mahesh",
+        "personal":false,
+        "category":"Education",
         "blog_img":"https://i.imgur.com/QWAMzls.png"
-    }]
+    },
+    {
+        "id":9,
+        "title":"Cloths",
+        "body":"It all comes with practice. Untill then just do ehat you have to do",
+        "author":"Mahesh",
+        "personal":true,
+        "category":"Manufacturing",
+        "blog_img":"https://i.imgur.com/iZUwdCh.jpg"
+    },
+    {
+        "id":10,
+        "title":"TouchScreen Laptops",
+        "body":"Touch screen devices get more attraction. It all comes with practice. Untill then just do ehat you have to do",
+        "author":"Naresh",
+        "personal":false,
+        "category":"Electronics",
+        "blog_img":"https://i.imgur.com/zlIvcpy.jpg"
+    },
+    {
+        "id":11,
+        "title":"POP",
+        "body":"Prince of Persia. It all comes with practice. Untill then just do ehat you have to do",
+        "author":"Mahesh",
+        "personal":false,
+        "category":"Education",
+        "blog_img":"https://i.imgur.com/JzgO6sU.jpg"
+    },
+    {
+        "id":12,
+        "title":"PUBG",
+        "body":"PUBG It all comes with practice. Untill then just do ehat you have to do",
+        "author":"Someone",
+        "personal":true,
+        "category":"Gaming",
+        "blog_img":"https://i.imgur.com/JzgO6sU.jpg"
+    }
+]
 }
