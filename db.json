@@ -107,5 +107,107 @@
         "category":"Gaming",
         "blog_img":"https://i.imgur.com/JzgO6sU.jpg"
     }
+],
+"products":[
+    {
+        "id":1,
+        "name":"SmartPhone",
+        "price":15000
+    },
+    {
+        "id":2,
+        "name":"Watch",
+        "price":2000
+    },
+    {
+        "id":3,
+        "name":"Bicycle",
+        "price":6000
+    },
+    {
+        "id":4,
+        "name":"Motor",
+        "price":10000
+    },
+    {
+        "id":5,
+        "name":"Shirt",
+        "price":1500
+    },
+    {
+        "id":6,
+        "name":"Pant",
+        "price":2000
+    },
+    {
+        "id":7,
+        "name":"Shooes",
+        "price":2000
+    },
+    {
+        "id":8,
+        "name":"Ipad",
+        "price":70000
+    },
+    {
+        "id":9,
+        "name":"Iphone",
+        "price":100000
+    },
+    {
+        "id":10,
+        "name":"SmartWatch",
+        "price":10000
+    },
+    {
+        "id":11,
+        "name":"Cap",
+        "price":1500
+    },
+    {
+        "id":12,
+        "name":"Skates",
+        "price":7000
+    },
+    {
+        "id":13,
+        "name":"Laptop",
+        "price":80000
+    },
+    {
+        "id":14,
+        "name":"Table",
+        "price":2000
+    },
+    {
+        "id":15,
+        "name":"table Lamp",
+        "price":900
+    },
+    {
+        "id":16,
+        "name":"Stationary",
+        "price":1000
+    },
+    {
+        "id":17,
+        "name":"Bag",
+        "price":3000
+    },
+    {
+        "id":18,
+        "name":"Travel Kit",
+        "price":4000
+    },
+    {
+        "id":19,
+        "name":"PowerBank",
+        "price":3000
+    },
+    {
+        "id":20,
+        "name":"HardDisk",
+        "price":6000
+    }
 ]
 }
