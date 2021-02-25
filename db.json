@@ -112,102 +112,122 @@
     {
         "id":1,
         "name":"SmartPhone",
-        "price":15000
+        "price":15000,
+        "category":"Electronics"
     },
     {
         "id":2,
         "name":"Watch",
-        "price":2000
+        "price":2000,
+        "category":"Electronics"
     },
     {
         "id":3,
         "name":"Bicycle",
-        "price":6000
+        "price":6000,
+        "category":"Kids"
     },
     {
         "id":4,
         "name":"Motor",
-        "price":10000
+        "price":10000,
+        "category":"Electronics"
     },
     {
         "id":5,
         "name":"Shirt",
-        "price":1500
+        "price":1500,
+        "category":"Apparel"
     },
     {
         "id":6,
         "name":"Pant",
-        "price":2000
+        "price":2000,
+        "category":"Apparel"
     },
     {
         "id":7,
         "name":"Shooes",
-        "price":2000
+        "price":2000,
+        "category":"Apparel"
     },
     {
         "id":8,
         "name":"Ipad",
-        "price":70000
+        "price":70000,
+        "category":"Electronics"
     },
     {
         "id":9,
         "name":"Iphone",
-        "price":100000
+        "price":100000,
+        "category":"Electronics"
     },
     {
         "id":10,
         "name":"SmartWatch",
-        "price":10000
+        "price":10000,
+        "category":"Electronics"
     },
     {
         "id":11,
         "name":"Cap",
-        "price":1500
+        "price":1500,
+        "category":"Apparel"
     },
     {
         "id":12,
         "name":"Skates",
-        "price":7000
+        "price":7000,
+        "category":"sports"
     },
     {
         "id":13,
         "name":"Laptop",
-        "price":80000
+        "price":80000,
+        "category":"Electronics"
     },
     {
         "id":14,
         "name":"Table",
-        "price":2000
+        "price":2000,
+        "category":"Stationery"
     },
     {
         "id":15,
         "name":"table Lamp",
-        "price":900
+        "price":900,
+        "category":"Electronics"
     },
     {
         "id":16,
         "name":"Stationary",
-        "price":1000
+        "price":1000,
+        "category":"Stationery"
     },
     {
         "id":17,
         "name":"Bag",
-        "price":3000
+        "price":3000,
+        "category":"Stationery"
     },
     {
         "id":18,
         "name":"Travel Kit",
-        "price":4000
+        "price":4000,
+        "category":"Sports"
     },
     {
         "id":19,
         "name":"PowerBank",
-        "price":3000
+        "price":3000,
+        "category":"Electronics"
     },
     {
         "id":20,
         "name":"HardDisk",
-        "price":6000
+        "price":6000,
+        "category":"Electronics"
     }
 ]
 }
