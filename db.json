@@ -249,5 +249,10 @@
         "category":"Electronics",
         "img":"https://via.placeholder.com/100"
     }
-]
+],
+"todos":[{
+    "id":1,
+    "title":"Some Title",
+    "status":false
+}]
 }
