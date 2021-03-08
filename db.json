@@ -264,7 +264,7 @@
    "school":"school1",
     "dob":"dob1"
   },{
-      "id":2
+      "id":2,
     "name": "student2",
     "score":"score2",
     "gender":"gender2",
