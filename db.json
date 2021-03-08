@@ -256,6 +256,11 @@
     "status":false
 }],
 "students":[{
-    
-}]
+    "name": "name",
+    "score":"score",
+    "gender":"gender",
+   "state":"state",
+   "school":"school",
+    "dob":"dob"
+  }]
 }
