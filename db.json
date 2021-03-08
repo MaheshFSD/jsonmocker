@@ -256,11 +256,18 @@
     "status":false
 }],
 "students":[{
-    "name": "name",
-    "score":"score",
-    "gender":"gender",
-   "state":"state",
-   "school":"school",
-    "dob":"dob"
+    "name": "student1",
+    "score":"score1",
+    "gender":"gender1",
+   "state":"state1",
+   "school":"school1",
+    "dob":"dob1"
+  },{
+    "name": "student2",
+    "score":"score2",
+    "gender":"gender2",
+   "state":"state2",
+   "school":"school2",
+    "dob":"dob2"
   }]
 }
