@@ -271,5 +271,48 @@
    "state":"state2",
    "school":"school2",
     "dob":"dob2"
-  }]
+  }],
+  "trendingnews":[
+      {
+        "id":1,
+        "heading":"Britney Spears",
+        "title":"Britney Spears' father defends himself as Republicans call for congressional hearing over her conservatorship",
+        "author":"Chloe Melas",
+        "time":"Updated 1840 GMT (0240 HKT) March 10, 2021",
+        "author_img":"https://cdn.cnn.com/cnnnext/dam/assets/180913113039-chloe-melas-headshot-small-11.jpg",
+        "img":"https://i.imgur.com/aDm3a1U.jpg",
+        "title2":"Attorney for Britney Spears' father speaks with CNN 05:01",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et accusantium vitae? Rem autem asperiores eaque recusandae eveniet consectetur possimus illum mollitia animi, officiis voluptatem dolor necessitatibus reiciendis provident? Laudantium?Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et accusantium vitae? Rem autem asperiores eaque recusandae eveniet consectetur possimus illum mollitia animi, officiis voluptatem dolor necessitatibus reiciendis provident? Laudantium?Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et accusantium vitae? Rem autem asperiores eaque recusandae eveniet consectetur possimus illum mollitia animi, officiis voluptatem dolor necessitatibus reiciendis provident? Laudantium?Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et accusantium vitae? Rem autem asperiores eaque recusandae eveniet consectetur possimus illum mollitia animi, officiis voluptatem dolor necessitatibus reiciendis provident? Laudantium?Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et accusantium vitae? Rem autem asperiores eaque recusandae eveniet consectetur possimus illum mollitia animi, officiis voluptatem dolor necessitatibus reiciendis provident? Laudantium?Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et accusantium vitae? Rem autem asperiores eaque recusandae eveniet consectetur possimus illum mollitia animi, officiis voluptatem dolor necessitatibus reiciendis provident? Laudantium?Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et accusantium vitae? Rem autem asperiores eaque recusandae eveniet consectetur possimus illum mollitia animi, officiis voluptatem dolor necessitatibus reiciendis provident? Laudantium?"
+      },
+      {
+        "id":2,
+        "heading":"Ronaldo's Error",
+        "title":"Cristiano Ronaldo commits 'unforgivable error' as Juventus is stunned by 10-man Porto in Champions League",
+        "author":"Ben Morse",
+        "time":"Updated 0853 GMT (1653 HKT) March 10, 2021",
+        "author_img":"",
+        "img":"https://i.imgur.com/LRFNTSJ.jpg",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et accusantium vitae? Rem autem asperiores eaque recusandae eveniet consectetur possimus illum mollitia animi, officiis voluptatem dolor necessitatibus reiciendis provident? Laudantium?Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et accusantium vitae? Rem autem asperiores eaque recusandae eveniet consectetur possimus illum mollitia animi, officiis voluptatem dolor necessitatibus reiciendis provident? Laudantium?Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et accusantium vitae? Rem autem asperiores eaque recusandae eveniet consectetur possimus illum mollitia animi, officiis voluptatem dolor necessitatibus reiciendis provident? Laudantium?Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et accusantium vitae? Rem autem asperiores eaque recusandae eveniet consectetur possimus illum mollitia animi, officiis voluptatem dolor necessitatibus reiciendis provident? Laudantium?Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et accusantium vitae? Rem autem asperiores eaque recusandae eveniet consectetur possimus illum mollitia animi, officiis voluptatem dolor necessitatibus reiciendis provident? Laudantium?Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et accusantium vitae? Rem autem asperiores eaque recusandae eveniet consectetur possimus illum mollitia animi, officiis voluptatem dolor necessitatibus reiciendis provident? Laudantium?Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et accusantium vitae? Rem autem asperiores eaque recusandae eveniet consectetur possimus illum mollitia animi, officiis voluptatem dolor necessitatibus reiciendis provident? Laudantium?"
+      },
+      {
+        "id":3,
+        "heading":"Michelle Obama",
+        "title":"Michelle Obama opens up about mental health struggles during Covid pandemic",
+        "author":"Veronica Stracqualursi",
+        "time":"Updated 2101 GMT (0501 HKT) March 10, 2021",
+        "author_img":"https://cdn.cnn.com/cnnnext/dam/assets/180507172900-veronica-stracqualursi-byline-small-11.jpg",
+        "img":"https://i.imgur.com/2zaHCCQ.jpg",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et accusantium vitae? Rem autem asperiores eaque recusandae eveniet consectetur possimus illum mollitia animi, officiis voluptatem dolor necessitatibus reiciendis provident? Laudantium?Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et accusantium vitae? Rem autem asperiores eaque recusandae eveniet consectetur possimus illum mollitia animi, officiis voluptatem dolor necessitatibus reiciendis provident? Laudantium?Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et accusantium vitae? Rem autem asperiores eaque recusandae eveniet consectetur possimus illum mollitia animi, officiis voluptatem dolor necessitatibus reiciendis provident? Laudantium?Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et accusantium vitae? Rem autem asperiores eaque recusandae eveniet consectetur possimus illum mollitia animi, officiis voluptatem dolor necessitatibus reiciendis provident? Laudantium?Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et accusantium vitae? Rem autem asperiores eaque recusandae eveniet consectetur possimus illum mollitia animi, officiis voluptatem dolor necessitatibus reiciendis provident? Laudantium?Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et accusantium vitae? Rem autem asperiores eaque recusandae eveniet consectetur possimus illum mollitia animi, officiis voluptatem dolor necessitatibus reiciendis provident? Laudantium?Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et accusantium vitae? Rem autem asperiores eaque recusandae eveniet consectetur possimus illum mollitia animi, officiis voluptatem dolor necessitatibus reiciendis provident? Laudantium?"
+      },
+      {
+        "id":4,
+        "heading":"What Dubai looke like before it boomed",
+        "title":"What Dubai looked like before it boomed",
+        "author":"Richard Quest and Joe Minihane",
+        "time":" Updated 10th March 2021",
+        "author_img":"https://i.imgur.com/2adPiTb.jpg",
+        "img":"",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et accusantium vitae? Rem autem asperiores eaque recusandae eveniet consectetur possimus illum mollitia animi, officiis voluptatem dolor necessitatibus reiciendis provident? Laudantium?Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et accusantium vitae? Rem autem asperiores eaque recusandae eveniet consectetur possimus illum mollitia animi, officiis voluptatem dolor necessitatibus reiciendis provident? Laudantium?Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et accusantium vitae? Rem autem asperiores eaque recusandae eveniet consectetur possimus illum mollitia animi, officiis voluptatem dolor necessitatibus reiciendis provident? Laudantium?Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et accusantium vitae? Rem autem asperiores eaque recusandae eveniet consectetur possimus illum mollitia animi, officiis voluptatem dolor necessitatibus reiciendis provident? Laudantium?Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et accusantium vitae? Rem autem asperiores eaque recusandae eveniet consectetur possimus illum mollitia animi, officiis voluptatem dolor necessitatibus reiciendis provident? Laudantium?Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et accusantium vitae? Rem autem asperiores eaque recusandae eveniet consectetur possimus illum mollitia animi, officiis voluptatem dolor necessitatibus reiciendis provident? Laudantium?Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et accusantium vitae? Rem autem asperiores eaque recusandae eveniet consectetur possimus illum mollitia animi, officiis voluptatem dolor necessitatibus reiciendis provident? Laudantium?"
+      }
+  ]
 }
