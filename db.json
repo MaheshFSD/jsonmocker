@@ -314,5 +314,37 @@
         "img":"",
         "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et accusantium vitae? Rem autem asperiores eaque recusandae eveniet consectetur possimus illum mollitia animi, officiis voluptatem dolor necessitatibus reiciendis provident? Laudantium?Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et accusantium vitae? Rem autem asperiores eaque recusandae eveniet consectetur possimus illum mollitia animi, officiis voluptatem dolor necessitatibus reiciendis provident? Laudantium?Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et accusantium vitae? Rem autem asperiores eaque recusandae eveniet consectetur possimus illum mollitia animi, officiis voluptatem dolor necessitatibus reiciendis provident? Laudantium?Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et accusantium vitae? Rem autem asperiores eaque recusandae eveniet consectetur possimus illum mollitia animi, officiis voluptatem dolor necessitatibus reiciendis provident? Laudantium?Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et accusantium vitae? Rem autem asperiores eaque recusandae eveniet consectetur possimus illum mollitia animi, officiis voluptatem dolor necessitatibus reiciendis provident? Laudantium?Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et accusantium vitae? Rem autem asperiores eaque recusandae eveniet consectetur possimus illum mollitia animi, officiis voluptatem dolor necessitatibus reiciendis provident? Laudantium?Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et accusantium vitae? Rem autem asperiores eaque recusandae eveniet consectetur possimus illum mollitia animi, officiis voluptatem dolor necessitatibus reiciendis provident? Laudantium?"
       }
+  ],
+  "grocerylist":[
+      {
+        "product_name":"rice",
+        "stock_available": true,
+         "quantity":20,
+        "price":2000
+      },
+      {
+        "product_name":"lentils",
+        "stock_available": true,
+         "quantity":20,
+        "price":4000
+      },
+      {
+        "product_name":"spices",
+        "stock_available": true,
+         "quantity":20,
+        "price":1000
+      },
+      {
+        "product_name":"oils",
+        "stock_available": true,
+         "quantity":20,
+        "price":3000
+      },
+      {
+        "product_name":"vegetables",
+        "stock_available": true,
+         "quantity":20,
+        "price":4000
+      }
   ]
 }
