@@ -317,35 +317,30 @@
   ],
   "grocerylist":[
       {
-          "id":1,
         "product_name":"rice",
         "stock_available": true,
          "quantity":20,
         "price":2000
       },
       {
-        "id":2,
         "product_name":"lentils",
         "stock_available": true,
          "quantity":20,
         "price":4000
       },
       {
-        "id":3,
         "product_name":"spices",
         "stock_available": true,
          "quantity":20,
         "price":1000
       },
       {
-        "id":4,
         "product_name":"oils",
         "stock_available": true,
          "quantity":20,
         "price":3000
       },
       {
-        "id":5,
         "product_name":"vegetables",
         "stock_available": true,
          "quantity":20,
